@@ -1,1 +1,7 @@
-https://openprocessing.org/sketch/1635667
+size(300, 200);
+
+ellipse(width / 2, height / 2, 175, 175);
+ellipse(40, 40, 75, 75);
+ellipse(40, 160, 75, 75);
+ellipse(260, 40, 75, 75);
+ellipse(260, 160, 75, 75);
