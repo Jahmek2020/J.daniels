@@ -1,0 +1,12 @@
+void setup() {
+	size(200, 200);
+	fill(0);
+}
+
+float x = 0.0;
+
+void draw() {
+		background(204);
+		ellipse(x, 50, 50, 50);
+		x = x + .5;
+}
